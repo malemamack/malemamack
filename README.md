@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @malemamack  
+- 👀 I’m interested in web development, database systems, and building user-friendly platforms.  
+- 🌱 I’m currently learning Python to expand my programming skills and enhance my general-purpose development capabilities.  
+- 💞️ I’m looking to collaborate on projects involving school management systems, responsive web design, and innovative tech solutions.  
+- 📫 How to reach me: You can contact me at connect with me via GitHub.  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I enjoy tackling challenging bugs and turning ideas into functional, well-designed applications!  
